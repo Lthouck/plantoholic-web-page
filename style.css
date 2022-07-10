@@ -1,3 +1,4 @@
 body {
-    background: blue;
+    background: url(../plantoholic-web-page/plants-background.jpg) center no-repeat;
+    background-size: cover; 
 }
