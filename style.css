@@ -1,4 +1,5 @@
 body {
     background: url(../plantoholic-web-page/plants-background.jpg) center no-repeat;
-    background-size: cover; 
+    background-size: cover;
+    background-attachment: fixed; 
 }
