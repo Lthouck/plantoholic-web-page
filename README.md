@@ -2,6 +2,6 @@
 
 /*Create a good README later!*/
 
-What it project does
+What the project does
 How to install and run code, etc.
 
