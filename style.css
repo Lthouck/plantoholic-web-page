@@ -3,3 +3,25 @@ body {
     background-size: cover;
     background-attachment: fixed; 
 }
+
+h1 {
+    font-size: 150px;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    text-align: left;
+}
+
+h2 {
+    font-size: 120px;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    text-align: left;
+}
+
+nav {
+    background: #334d00;
+    height: 70px;
+    display: flex;
+}
+#content {
+    padding: 35px;
+    background: #ffe6cc;
+}
