@@ -5,9 +5,9 @@ body {
 }
 
 h1 {
-    font-size: 25px;
+    font-size: 40px;
     font-family: Georgia, 'Times New Roman', Times, serif;
-    text-align: left;
+    text-align: center;
 }
 
 h2 {
@@ -20,21 +20,27 @@ h3 {
     font-family: Georgia, 'Times New Roman', Times, serif
 }
 p {
-    font-size: 15px;
-    font-family: Georgia, 'Times New Roman', Times, serif;
+    display: block;
+    margin-block-start: 1em;
+    margin-block-end: 1em;
+    margin-inline-start: 0px;
+    margin-inline-end: 0px;
 }
 
 nav {
-    background: #334d00;
-    height: 60px;
-    display: flex;
+    background: #009178;
+    text-align: center;
+    padding-left: 10px;
+    padding-right: 10px;
 }
 #content {
-    padding: 35px;
+    padding: 20px;
     background: #ffe6cc;
 }
 img {
-    max width: 65%;
-    width: 65%;
+    width: 500px;
     height: auto;
+}
+div {
+    display: block;
 }
